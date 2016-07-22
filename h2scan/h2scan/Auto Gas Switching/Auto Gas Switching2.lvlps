@@ -1,0 +1,118 @@
+[AB_Cache_{3B7F305B-61BF-4D8C-B651-BD0D3BABF70F}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "5a8b79a5ee844409d4ce9f4f4dd9ceb9"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switch"
+Cache_GenFile[0][Path] Line0002 = "ing2/Auto Gas Switching/Application.exe"
+Cache_GenFile[1][Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switch"
+Cache_GenFile[1][Path] Line0002 = "ing2/Auto Gas Switching/Application.aliases"
+Cache_GenFile[2][Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switch"
+Cache_GenFile[2][Path] Line0002 = "ing2/Auto Gas Switching/Application.ini"
+Cache_GenFile[3][Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switch"
+Cache_GenFile[3][Path] Line0002 = "ing2/Auto Gas Switching/data/AduHid.dll"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{1D5DD853-0C24-480F-A2E2-2C187F6CFD8B}"
+Cache_GenGUID[1][String] = "{85C5679A-AC40-46B3-9BDF-BEEBCB821E0B}"
+Cache_GenGUID[2][String] = "{F53AB8A4-2CE3-4423-850E-BDA533B09A3D}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switchi"
+Cache_OutputDir[Path] Line0002 = "ng2/Auto Gas Switching"
+
+[AB_Cache_{6EDDBE82-C6CF-48AB-8DF4-659B2F98DA26}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "5a8b79a5ee844409d4ce9f4f4dd9ceb9"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switch"
+Cache_GenFile[0][Path] Line0002 = "ing2/Auto Gas Switching/Application.exe"
+Cache_GenFile[1][Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switch"
+Cache_GenFile[1][Path] Line0002 = "ing2/Auto Gas Switching/Application.aliases"
+Cache_GenFile[2][Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switch"
+Cache_GenFile[2][Path] Line0002 = "ing2/Auto Gas Switching/Application.ini"
+Cache_GenFile[3][Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switch"
+Cache_GenFile[3][Path] Line0002 = "ing2/Auto Gas Switching/data/AduHid.dll"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{1D5DD853-0C24-480F-A2E2-2C187F6CFD8B}"
+Cache_GenGUID[1][String] = "{85C5679A-AC40-46B3-9BDF-BEEBCB821E0B}"
+Cache_GenGUID[2][String] = "{F53AB8A4-2CE3-4423-850E-BDA533B09A3D}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switchi"
+Cache_OutputDir[Path] Line0002 = "ng2/Auto Gas Switching"
+
+[AB_Cache_{798F8F17-A6D3-4754-A244-A9A6F3C8E60B}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "5a8b79a5ee844409d4ce9f4f4dd9ceb9"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switch"
+Cache_GenFile[0][Path] Line0002 = "ing2/Auto Gas Switching/Application.exe"
+Cache_GenFile[1][Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switch"
+Cache_GenFile[1][Path] Line0002 = "ing2/Auto Gas Switching/Application.aliases"
+Cache_GenFile[2][Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switch"
+Cache_GenFile[2][Path] Line0002 = "ing2/Auto Gas Switching/Application.ini"
+Cache_GenFile[3][Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switch"
+Cache_GenFile[3][Path] Line0002 = "ing2/Auto Gas Switching/data/AduHid.dll"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{1D5DD853-0C24-480F-A2E2-2C187F6CFD8B}"
+Cache_GenGUID[1][String] = "{85C5679A-AC40-46B3-9BDF-BEEBCB821E0B}"
+Cache_GenGUID[2][String] = "{F53AB8A4-2CE3-4423-850E-BDA533B09A3D}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] Line0001 = "/N/Electrical/Labview/builds/Auto Gas Switchi"
+Cache_OutputDir[Path] Line0002 = "ng2/Auto Gas Switching"
+
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "253,159,762,1124"
+
+[AB_Cache_{A436CBAA-2993-4425-86F1-BFA4FF598D6A}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "826f96d5460847d0f922adf5db37d748"
+Cache_GenFile_Count[Integer] = 5
+Cache_GenFile[0][Path] Line0001 = "/E/Users/KSalek/Documents/Labview/Auto Gas S"
+Cache_GenFile[0][Path] Line0002 = "witching/Application/Auto Gas Switching.exe"
+Cache_GenFile[1][Path] Line0001 = "/E/Users/KSalek/Documents/Labview/Auto Gas S"
+Cache_GenFile[1][Path] Line0002 = "witching/Application/Auto Gas Switching.alia"
+Cache_GenFile[1][Path] Line0003 = "ses"
+Cache_GenFile[2][Path] Line0001 = "/E/Users/KSalek/Documents/Labview/Auto Gas S"
+Cache_GenFile[2][Path] Line0002 = "witching/Application/Auto Gas Switching.ini"
+Cache_GenFile[3][Path] Line0001 = "/E/Users/KSalek/Documents/Labview/Auto Gas S"
+Cache_GenFile[3][Path] Line0002 = "witching/Application/data/Switch Gas Icon.ic"
+Cache_GenFile[3][Path] Line0003 = "o"
+Cache_GenFile[4][Path] Line0001 = "/E/Users/KSalek/Documents/Labview/Auto Gas S"
+Cache_GenFile[4][Path] Line0002 = "witching/Application/data/ULx_LV.dll"
+Cache_GenGUID_Count[Integer] = 5
+Cache_GenGUID[0][String] = "{7A9D3EAA-5BB5-4637-BFD8-B4F8DC07E135}"
+Cache_GenGUID[1][String] = "{B490C3A6-EE7C-4E39-87A0-3020D6E0BE02}"
+Cache_GenGUID[2][String] = "{4E76AF08-16DF-4F46-AD97-C95D844D9619}"
+Cache_GenGUID[3][String] = "{345AE9FD-814E-4356-8050-65B41C89C8E5}"
+Cache_GenGUID[4][String] = ""
+Cache_OutputDir[Path] Line0001 = "/E/Users/KSalek/Documents/Labview/Auto Gas Sw"
+Cache_OutputDir[Path] Line0002 = "itching/Application"
+
+[AB_Cache_{A2E6B6CF-4285-4BB5-9947-FE1C2C2EC1E5}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "826f96d5460847d0f922adf5db37d748"
+Cache_GenFile_Count[Integer] = 5
+Cache_GenFile[0][Path] Line0001 = "/E/Users/KSalek/Documents/Labview/Auto Gas S"
+Cache_GenFile[0][Path] Line0002 = "witching/Application/Auto Gas Switching.exe"
+Cache_GenFile[1][Path] Line0001 = "/E/Users/KSalek/Documents/Labview/Auto Gas S"
+Cache_GenFile[1][Path] Line0002 = "witching/Application/Auto Gas Switching.alia"
+Cache_GenFile[1][Path] Line0003 = "ses"
+Cache_GenFile[2][Path] Line0001 = "/E/Users/KSalek/Documents/Labview/Auto Gas S"
+Cache_GenFile[2][Path] Line0002 = "witching/Application/Auto Gas Switching.ini"
+Cache_GenFile[3][Path] Line0001 = "/E/Users/KSalek/Documents/Labview/Auto Gas S"
+Cache_GenFile[3][Path] Line0002 = "witching/Application/data/Switch Gas Icon.ic"
+Cache_GenFile[3][Path] Line0003 = "o"
+Cache_GenFile[4][Path] Line0001 = "/E/Users/KSalek/Documents/Labview/Auto Gas S"
+Cache_GenFile[4][Path] Line0002 = "witching/Application/data/ULx_LV.dll"
+Cache_GenGUID_Count[Integer] = 5
+Cache_GenGUID[0][String] = "{7A9D3EAA-5BB5-4637-BFD8-B4F8DC07E135}"
+Cache_GenGUID[1][String] = "{B490C3A6-EE7C-4E39-87A0-3020D6E0BE02}"
+Cache_GenGUID[2][String] = "{4E76AF08-16DF-4F46-AD97-C95D844D9619}"
+Cache_GenGUID[3][String] = "{345AE9FD-814E-4356-8050-65B41C89C8E5}"
+Cache_GenGUID[4][String] = ""
+Cache_OutputDir[Path] Line0001 = "/E/Users/KSalek/Documents/Labview/Auto Gas Sw"
+Cache_OutputDir[Path] Line0002 = "itching/Application"
+
